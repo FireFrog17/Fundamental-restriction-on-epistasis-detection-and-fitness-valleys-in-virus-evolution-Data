@@ -1,7 +1,7 @@
 ShortTest.m - MATLAB program that initiates mock sequence generation
 recomb_2023_epi.m - MATLAB program function that generates mock sequences
-DataProcessing - python script and enviroment for data processing
-EpistasisCalculation - python script and enviroment for Epistasis calculation
+DataProcessing - folder with enviroment and python script for data processing
+EpistasisCalculation - folder with enviroment and python script for Epistasis calculation
 
 How to use:
 0) if using mock sequences - open ShortTest.m and set needed parameters. After the end of calculations remeber the path to saved data files
